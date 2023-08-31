@@ -1,2 +1,2 @@
 # test
-simple greeting program that i made 
+some simple that i made 
