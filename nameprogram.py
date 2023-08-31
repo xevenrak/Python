@@ -1,5 +1,5 @@
-# Get user input
+# input
 name = input("What's your name? ")
 
-# Print a greeting
+# print output 
 print(f"Hello, {name}! Nice to meet you.")
